@@ -36,9 +36,6 @@ npm start
 
 Open your browser and visit http://localhost:3000.
 
-bash
-Copy code
-npm start
-Open your browser and visit http://localhost:3000.
+
 
 
